@@ -1,4 +1,5 @@
 languageCode = "cs"
+baseURL = "https://268028-FKablasek.github.io/ZPC2025-Kablasek/"
 title = "ZPC 2025 Kablásek"
 theme = "ananke"
 
