@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on ZPC 2025 Kablásek</title>
-    <link>/categories/</link>
+    <link>https://268028-FKablasek.github.io/ZPC2025-Kablasek/categories/</link>
     <description>Recent content in Categories on ZPC 2025 Kablásek</description>
     <generator>Hugo</generator>
     <language>cs</language>
-    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://268028-FKablasek.github.io/ZPC2025-Kablasek/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
