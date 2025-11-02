@@ -14,7 +14,7 @@ Tato webová stránka je vytvořena pomocí **Hugo build** a obsah vkládán v p
 
 Použité programovací jazyky:**Markdown** a **Html**.
 
-Web hosting: GitHub https://github.com/268028-FKablasek/ZPC2025-Kablasek.git
+Web hosting: GitHub https://268028-fkablasek.github.io/ZPC2025-Kablasek/
 # Postup tvorby
 Prvním krokem bylo vytvoření základního rozdělení webu. Pro toto jsem zvolil vytvoření třech hlavních sekcí: **Index** (Úvod), **O mně** a **Projekty**. Projekty jsou následně rozvětveny do pěti mini projektů a individuálního projektu [Img7]. 
 
