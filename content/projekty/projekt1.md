@@ -5,7 +5,7 @@ subtitle: Tvorba webové stránky
 ---
 
 <img src="/images/web1.jpg"
-     alt="Img7"
+     alt="1"
      width="500" 
      style="position:absolute; right:2cm; top:5cm; border-radius:10px;">
 
@@ -25,11 +25,11 @@ Sekce **O mně** obsahuje údaje o tvůrci a stránky a projektů (O mně). Kód
 Pro **Projekty** bylo zapotřebí upravit základní definici šablony Ananke a předefinovat ji pomocí kódu vloženého do        ZPC2025-Kablasek/layouts/_default/list.html, aby bylo možné docílit požadovaného vzhledu a struktury. 
 
 <img src="/images/web2.png"
-     alt="Img7"
+     alt="2"
      width="300" 
      style="position:absolute; right:8.5cm; top:18cm; border-radius:10px;">
 <img src="/images/web3.png"
-     alt="Img7"
+     alt="3"
      width="300" 
      style="position:absolute; right:1cm; top:18cm; border-radius:10px;">
 
@@ -37,7 +37,7 @@ Pro **Projekty** bylo zapotřebí upravit základní definici šablony Ananke a 
 Upload stránky je uskutečněn pomocí online platformy **github.com**, kde je nahraná struktura stránky a commitnuta online pro veřejný přístup. Aby se toto dalo uskutečnit, tak je zapotřebí prvně založit repozitář a provést nastavení, tak aby umožnoval automatický deploy na github. Do stuktury wébove stránky se následně musí přidat soubor pro deploy.
 
 <img src="/images/web4.png"
-     alt="Img7"
+     alt="4"
      width="500" 
      style="position:absolute; right:1cm; top:33cm; border-radius:10px;">
 
