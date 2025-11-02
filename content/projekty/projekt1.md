@@ -4,7 +4,7 @@ weight: 1
 subtitle: Tvorba webové stránky
 ---
 
-<img src="public/images/web1.jpg"
+<img src="/images/web1.jpg"
      alt="Img7"
      width="500" 
      style="position:absolute; right:2cm; top:5cm; border-radius:10px;">
@@ -24,11 +24,11 @@ Sekce **O mně** obsahuje údaje o tvůrci a stránky a projektů (O mně). Kód
 
 Pro **Projekty** bylo zapotřebí upravit základní definici šablony Ananke a předefinovat ji pomocí kódu vloženého do        ZPC2025-Kablasek/layouts/_default/list.html, aby bylo možné docílit požadovaného vzhledu a struktury. 
 
-<img src="public/images/web2.png"
+<img src="/images/web2.png"
      alt="Img7"
      width="300" 
      style="position:absolute; right:8.5cm; top:18cm; border-radius:10px;">
-<img src="public/images/web3.png"
+<img src="/images/web3.png"
      alt="Img7"
      width="300" 
      style="position:absolute; right:1cm; top:18cm; border-radius:10px;">
@@ -36,7 +36,7 @@ Pro **Projekty** bylo zapotřebí upravit základní definici šablony Ananke a 
 # Github
 Upload stránky je uskutečněn pomocí online platformy **github.com**, kde je nahraná struktura stránky a commitnuta online pro veřejný přístup. Aby se toto dalo uskutečnit, tak je zapotřebí prvně založit repozitář a provést nastavení, tak aby umožnoval automatický deploy na github. Do stuktury wébove stránky se následně musí přidat soubor pro deploy.
 
-<img src="public/images/web4.png"
+<img src="/images/web4.png"
      alt="Img7"
      width="500" 
      style="position:absolute; right:1cm; top:33cm; border-radius:10px;">
@@ -46,7 +46,7 @@ Finálním produktem tohoto projektu je plně funkční stránka pro projekt How
 
 <video width="600" height="400" controls 
         style="position:absolute; right:1cm; top:40cm; border-radius:10px;">
-  <source src="public/videos/video2.mp4" type="video/mp4">
+  <source src="/videos/video2.mp4" type="video/mp4">
   Your browser does not support the video tag.
   
 </video>
