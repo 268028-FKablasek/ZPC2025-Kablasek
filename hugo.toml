@@ -1,4 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "/"
+relativeURLs = true
 languageCode = "cs"
 title = "ZPC 2025 Kablásek"
 theme = "ananke"

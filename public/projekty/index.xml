@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projekty on ZPC 2025 Kablásek</title>
-    <link>http://example.org/projekty/</link>
+    <link>/projekty/</link>
     <description>Recent content in Projekty on ZPC 2025 Kablásek</description>
     <generator>Hugo</generator>
     <language>cs</language>
-    <atom:link href="http://example.org/projekty/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/projekty/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projekt 1</title>
-      <link>http://example.org/projekty/projekt1/</link>
+      <link>/projekty/projekt1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://example.org/projekty/projekt1/</guid>
-      <description>&lt;p&gt;sdasdaj&lt;/p&gt;</description>
+      <guid>/projekty/projekt1/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../images/web1.jpg&#34;&#xA;alt=&#34;Img7&#34;&#xA;width=&#34;500&#34; &#xA;style=&#34;position:absolute; right:2cm; top:5cm; border-radius:10px;&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;základní-údaje-webové-stránky&#34;&gt;Základní údaje webové stránky&lt;/h1&gt;&#xA;&lt;p&gt;Tato webová stránka je vytvořena pomocí &lt;strong&gt;Hugo build&lt;/strong&gt; a obsah vkládán v programu Visual Studio.Základem je šablona Ananke, která je mírně upravena pro lepší možnost rozdělení projektů.&lt;/p&gt;&#xA;&lt;p&gt;Použité programovací jazyky:&lt;strong&gt;Markdown&lt;/strong&gt; a &lt;strong&gt;Html&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Web hosting: GitHub &lt;a href=&#34;https://github.com/268028-FKablasek/ZPC2025-Kablasek.git&#34;&gt;https://github.com/268028-FKablasek/ZPC2025-Kablasek.git&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;postup-tvorby&#34;&gt;Postup tvorby&lt;/h1&gt;&#xA;&lt;p&gt;Prvním krokem bylo vytvoření základního rozdělení webu. Pro toto jsem zvolil vytvoření třech hlavních sekcí: &lt;strong&gt;Index&lt;/strong&gt; (Úvod), &lt;strong&gt;O mně&lt;/strong&gt; a &lt;strong&gt;Projekty&lt;/strong&gt;. Projekty jsou následně rozvětveny do pěti mini projektů a individuálního projektu [Img7].&lt;/p&gt;</description>
     </item>
     <item>
       <title>Projekt 2</title>
-      <link>http://example.org/projekty/projekt2/</link>
+      <link>/projekty/projekt2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://example.org/projekty/projekt2/</guid>
-      <description>&lt;p&gt;sdasd&lt;/p&gt;</description>
+      <guid>/projekty/projekt2/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../images/laser.jpg&#34;&#xA;alt=&#34;Img7&#34;&#xA;width=&#34;500&#34; &#xA;style=&#34;position:absolute; right:2cm; top:8cm; border-radius:10px;&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;volba-tématu&#34;&gt;Volba tématu&lt;/h1&gt;&#xA;&lt;p&gt;Základem pro tento projekt byla volba vhodného tématu, které by splnilo zadání.&lt;/p&gt;&#xA;&lt;p&gt;Zadání: Tvorba projektu pomocí laserové řezačky při použití maximálně dvou kartónů o rozměrech &lt;strong&gt;1300x1000x6 mm&lt;/strong&gt;. Nutnost využítí principu kontaktních spojů &lt;strong&gt;bez použití lepidla&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Mým cílem bylo zvolit vhodné téma s oborovou tématikou, proto jsem se rozhodl udělat puzzle s tématikou hřídele z předmětu Základy konstruování (1K).&lt;/p&gt;&#xA;&lt;h1 id=&#34;technické-údaje&#34;&gt;Technické údaje&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Počet dílků: 600&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Rozměr puzzle: 1000x600x6 mm&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Rozměr podstavy:1200x800x6 mm&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Patern generace: 666&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;realizace-projektu&#34;&gt;Realizace projektu&lt;/h1&gt;&#xA;&lt;p&gt;V prvním kroku bylo nutno najít způsob, jak efektivně vygenerovat patern pro puzzle. Ze zvědavosti jsem se chtěl vyhnout běžnému webovému generátoru a zkusit to přes ChatGpt. Tento úkol však nebyl tak snadný, jak by se mohlo zdát, avšak po delší době přesvědčování se podařilo docílit požadovaného výsledku.&#xA;&lt;img src=&#34;../images/puzzletemplate.png&#34;&#xA;alt=&#34;Img7&#34;&#xA;width=&#34;500&#34; &#xA;style=&#34;position:absolute; right:2cm; top:20cm; border-radius:10px;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Projekt 3</title>
-      <link>http://example.org/projekty/projekt3/</link>
+      <link>/projekty/projekt3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://example.org/projekty/projekt3/</guid>
-      <description></description>
+      <guid>/projekty/projekt3/</guid>
+      <description>&lt;h1 id=&#34;příprava-pro-skenování&#34;&gt;Příprava pro skenování&lt;/h1&gt;&#xA;&lt;p&gt;Pro začátek bylo zapotřebí předmět připravit na skenování [Img2]. V mém případě bylo nutné nastříkaní předmětu křídových sprejem, aby se eliminovala průhlednost jeho povrchu [Img3]. Křídový sprej jsem opatrně nanesl na předmět v lakovacích boxu [Img4].&lt;/p&gt;&#xA;&lt;p&gt;Následně bylo zapotřebí nalepit referenční skenovací body na předmět a umístit ho na skenovací otoční stůl společně se čtyřma referenčíma kostkama.&lt;/p&gt;&#xA;&lt;p&gt;Údaje v programu na skener byly nastaveny na &lt;strong&gt;small&lt;/strong&gt; a &lt;strong&gt;matný&lt;/strong&gt;.&#xA;&lt;img src=&#34;../images/97946.jpg&#34;&#xA;alt=&#34;Img2&#34; &#xA;width=&#34;300&#34; &#xA;style=&#34;position:absolute; right:0.5cm; top:8cm; border-radius:10px;&#34;&gt;&#xA;&lt;img src=&#34;../images/6499.jpg&#34;&#xA;alt=&#34;Img3&#34; &#xA;width=&#34;300&#34; &#xA;style=&#34;position:absolute; right:0.5cm; top:14cm; border-radius:10px;&#34;&gt;&#xA;&lt;img src=&#34;../images/21519.jpg&#34;&#xA;alt=&#34;Img4&#34;&#xA;width=&#34;300&#34; &#xA;style=&#34;position:absolute; right:8.5cm; top:8cm; border-radius:10px;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Projekt 4</title>
-      <link>http://example.org/projekty/projekt4/</link>
+      <link>/projekty/projekt4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://example.org/projekty/projekt4/</guid>
-      <description></description>
+      <guid>/projekty/projekt4/</guid>
+      <description>&lt;h1 id=&#34;definice-projektuzadání&#34;&gt;Definice projektu/zadání&lt;/h1&gt;&#xA;&lt;p&gt;Čtvrtý miniprojekt je zaměřen na technologii 3D tisku.&lt;br&gt;&#xA;3D výtisk musí obsahovat:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Uložení s vůli&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Uložení s přesahem&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Maximální váha 100g&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Určitý druh mechanismu&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;výběr-tématu&#34;&gt;Výběr tématu&lt;/h1&gt;&#xA;&lt;p&gt;Pro můj 3D tištění projekt, který by splňoval požadované parametry jsem zvolil realizaci&#xA;převodu ozubenými koly do pomala.&lt;/p&gt;&#xA;&lt;h1 id=&#34;technické-parametry&#34;&gt;Technické parametry&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Počet párů ozubených kol: 6&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Převodový poměr: 15625&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Počet 3D tistěných dílů: 21&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Výška vrstvy: 0,3 mm&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Výplň: Kubická adaptivní 5%&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tiskárna: Core one&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Materiál: PLA&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;nárvh-dílů&#34;&gt;Nárvh dílů&lt;/h1&gt;&#xA;&lt;p&gt;Všechny části tohoto projektu byly vymodelovány v aplikaci Inventor profesional 2026. V první řade bylo zapotřebí pomocí funkce návrh definovat hodnoty pro výpočet ozubení.     Navolil jsem si:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Projekt 5</title>
-      <link>http://example.org/projekty/projekt5/</link>
+      <link>/projekty/projekt5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://example.org/projekty/projekt5/</guid>
-      <description>&lt;p&gt;sdsad&lt;/p&gt;</description>
+      <guid>/projekty/projekt5/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../images/elektro.jpg&#34;&#xA;alt=&#34;Img7&#34;&#xA;width=&#34;500&#34; &#xA;style=&#34;position:absolute; right:2cm; top:8cm; border-radius:10px;&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;definice-projektu&#34;&gt;Definice projektu&lt;/h1&gt;&#xA;&lt;p&gt;Cílem tohoto projektu bylo se naučit využivát elektronické řízení zejména pomocí mikrokontroleru Arduino Uno. Nutností bylo použít zmíněný mikrokontroler a součásti nacházející se v programu Tinker CAD.&lt;/p&gt;&#xA;&lt;h1 id=&#34;volba-tématu&#34;&gt;Volba tématu&lt;/h1&gt;&#xA;&lt;p&gt;Pro realizaci jsem si zvolil tzv. &amp;ldquo;Morse code transmitter&amp;rdquo;, neboli zařízení umožňující převod psáného textu do morzeovky a zpětně.&lt;/p&gt;&#xA;&lt;h1 id=&#34;realizace-zapojení&#34;&gt;Realizace zapojení&lt;/h1&gt;&#xA;&lt;p&gt;Projekt jsem se rozhodl realizovat pouze v digitální podobě v softwaru TinkerCad. Prvotní verze byla pouze na otestování principu a poté postupně vylepšována do koncové podoby. Jednotlivé verze se lišily v použitých součástek, tak i v programu. Po iteračním procesu vznikla finální verze, která obsahuje tyto části:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Individuální projekt</title>
-      <link>http://example.org/projekty/individualni-projekt/</link>
+      <link>/projekty/individualni-projekt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://example.org/projekty/individualni-projekt/</guid>
+      <guid>/projekty/individualni-projekt/</guid>
       <description>&lt;p&gt;gsdasdas&lt;/p&gt;&#xA;&lt;p&gt;g&#xA;Here is all the extra content for this project.&lt;/p&gt;</description>
     </item>
   </channel>
