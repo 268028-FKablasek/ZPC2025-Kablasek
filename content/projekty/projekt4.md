@@ -70,7 +70,7 @@ Ozubený převod obsahující 21 části. Složen pouze pomocí 3D tistěných d
      style="position:absolute; right:2cm; top:54cm; border-radius:10px;">
 
 <video width="550" height="400" controls 
-       
-  <source src="/videos/2.mp4" type="video/mp4">
+        style="position:absolute; right:17.5cm; top:64cm; border-radius:10px;">
+  <source src="/ZPC2025-Kablasek/videos/2.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
