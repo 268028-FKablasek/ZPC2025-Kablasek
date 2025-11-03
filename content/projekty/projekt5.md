@@ -33,7 +33,7 @@ Jednotlivé součástky jsou mezi sebou propojeny vodiči přes breadbordu a nap
      width="500" 
      style="position:absolute; right:2cm; top:19cm; border-radius:10px;">
 
- <img src="/ZPC2025-Kablasek/images/schema.png"
+ <img src="/ZPC2025-Kablasek/images/Schema.png"
      alt="21"
      width="500" 
      style="position:absolute; right:2cm; top:26cm; border-radius:10px;">
@@ -89,7 +89,7 @@ Pro další verze by bylo možno přidat funkci zvukové detekce morzeova kódu 
 
 <video width="600" height="400" controls 
         style="position:absolute; right:17.5cm; top:67.4cm; border-radius:10px;">
-  <source src="/ZPC2025-Kablasek/videos/videoprojekt.mp4" type="video/mp4">
+  <source src="/ZPC2025-Kablasek/videos/Videoprojekt.mp4" type="video/mp4">
   Your browser does not support the video tag.
   
 </video>
