@@ -92,13 +92,13 @@ Na této stránce naleznete dokumentaci jednotlivých projektů, jejich výsledk
 
 <div class="tree">
   <div class="node">
-    <a href="/projekty/individualni-projekt">Individuální projekt</a>
+    <a href="/ZPC2025-Kablasek/projekty/individualni-projekt">Individuální projekt</a>
   </div>
   <div class="children">
-    <div class="node"><a href="/projekty/projekt1">Projekt 1</a></div>
-    <div class="node"><a href="/projekty/projekt2">Projekt 2</a></div>
-    <div class="node"><a href="/projekty/projekt3">Projekt 3</a></div>
-    <div class="node"><a href="/projekty/projekt4">Projekt 4</a></div>
-    <div class="node"><a href="/projekty/projekt5">Projekt 5</a></div>
+    <div class="node"><a href="/ZPC2025-Kablasek/projekty/projekt1">Projekt 1</a></div>
+    <div class="node"><a href="/ZPC2025-Kablasek/projekty/projekt2">Projekt 2</a></div>
+    <div class="node"><a href="/ZPC2025-Kablasek/projekty/projekt3">Projekt 3</a></div>
+    <div class="node"><a href="/ZPC2025-Kablasek/projekty/projekt4">Projekt 4</a></div>
+    <div class="node"><a href="/ZPC2025-Kablasek/projekty/projekt5">Projekt 5</a></div>
   </div>
 </div>
