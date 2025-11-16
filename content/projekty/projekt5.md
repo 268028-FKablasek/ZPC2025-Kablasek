@@ -3,7 +3,7 @@ title: "Projekt 5"
 weight: 5
 subtitle: Elektro - Morse code transmitter
 ---
-
+TinkerCad: https://shorturl.at/oYabl
 <img src="/ZPC2025-Kablasek/images/elektro.jpg"
      alt="19"
      width="500" 
@@ -58,7 +58,7 @@ Jednotlivé součástky jsou mezi sebou propojeny vodiči přes breadbordu a nap
 <img src="/ZPC2025-Kablasek/images/kod3.png"
      alt="24"
      width="500" 
-     style="position:absolute; right:20cm; top:46cm; border-radius:10px;">   
+     style="position:absolute; right:20cm; top:47.6cm; border-radius:10px;">   
   
  .   
  .   
@@ -87,8 +87,10 @@ Zařízení umožňuje převod psaného textu na morzeovku a opačně pomocí mo
 
 Pro další verze by bylo možno přidat funkci zvukové detekce morzeova kódu a následného přepisu do písmen a znaků.
 
+
+
 <video width="600" height="400" controls 
-        style="position:absolute; right:17.5cm; top:67.4cm; border-radius:10px;">
+        style="position:absolute; right:17.5cm; top:68.4cm; border-radius:10px;">
   <source src="/ZPC2025-Kablasek/videos/Videoprojekt.mp4" type="video/mp4">
   Your browser does not support the video tag.
   
