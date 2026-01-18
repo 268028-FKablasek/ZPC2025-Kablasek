@@ -43,7 +43,7 @@ Tato konstrukce by měla umožnit dosažení cíle, při zachování dostupnosti
 ---
 
 # Vývojový postup jednotlivých částí
-Před samotným zahájením práce na projektu bylo nutné nastudovat řešenou problematiku a zároveň se seznámit s předešlými řešeními. Podle získaných vědomostí byly vymezeny problémy, kvůli kterým předešlé verze selhaly, a byla zahájena práce na vlastní iteraci.
+Před samotným zahájením práce na projektu bylo nutné nastudovat řešenou problematiku a současně se seznámit s předešlými řešeními. Podle získaných vědomostí byly vymezeny problémy, kvůli kterým předešlé verze selhaly, a byla zahájena práce na vlastní iteraci.
 
 Základním stavebním kamenem vývoje byl již navržený a optimalizovaný propeler s vnitřními lopatkami, který značně omezil dráhu vývoje.
 
@@ -90,7 +90,7 @@ Hlavní omezení spočívalo v udržení hmotnosti jednoho ložiska okolo 100 g 
      style="position:absolute; right:2cm; top:70cm; border-radius:10px;">
 
 ### 3. Výběr těsnění
-Konzultace přinesla taktéž značný přínos při výběru těsnění. Výběr se zúžil na tři typy:
+Konzultace přinesla značný přínos i při výběru těsnění. Výběr se zúžil na tři typy:
 
 * **Ferofluidní těsnění** 
 * **Gufera pro vysokorychlostní aplikace**
@@ -123,7 +123,7 @@ V Inventoru byl návrh proveden jako šikmé ozubení o poloviční šířce a t
 ### 5. Vývoj unašeče pastorku pro BLDC motor
 Po návrhu ozubení se přesunula priorita na vymyšlení způsobu, jak efektivně uchytit pastorek na hřídel BLDC motoru.
 
-V první iteraci byl testován prototyp unašeče na způsob originální součásti dodávané k motoru. Tato součást se uchycovala pomocí dvou červíků a závitu. Tento princip se ukázal neefektivní a zbytečně složitý, z důvodu nutnosti přesné kovové výroby na soustruhu.   
+V první iteraci byl testován prototyp unašeče na způsob originální součásti dodávané k motoru. Tato součást se uchycovala pomocí dvou červíků a závitu, a proto se princip ukázal jako neefektivní a zbytečně složitý, z důvodu nutnosti přesné kovové výroby na soustruhu.   
 V druhé iteraci se začal optimalizovat 3D tištěný unašeč, který dosedá na doraz motoru společně s pastorkem, který stlačuje. Po mnoha neúspěšných pokusech se optimalizoval způsob uchycení s výrobními tolerancemi 3D tisku. 
 
 Finální iterace obsahuje 4 samosvorné drážky, na které se nasune pastorek. Tento celek se dále našroubuje na hřídel motoru, přičemž dosedne na doraz motoru. Pro pojištění proti povolení je v horní části šroub M3 se zápustnou hlavou. Pojištění proti případnému vyosení obstarává horní osazení, nasunuté do ložiska v motorové skříni.
@@ -150,7 +150,7 @@ Horní polovina obsahuje výřez pro uchycení chladiče a úchytu motoru.
 ### 7. Vývoj chladiče BLDC motoru
 Chladič musí obstarávat částečný odvod tepla, a taktéž musí pevně ustanovovat polohu BLDC motoru při rotaci.
 
-První iterace se koncipovala formou samotného dílce, ve kterém byl vložen motor s olejem a zatěsněn vůči zbytku. Po testech první iterace se však od tohoto nápadu upustilo z důvodu změny principu zatěsnění motorové skříně a zbytečně velké hmotnosti. 
+První iterace se koncipovala formou samotného dílce, ve kterém byl vložen motor s olejem a zatěsněn vůči zbytku. Po testech první iterace se od tohoto nápadu upustilo, z důvodu změny principu zatěsnění motorové skříně a zbytečně velké hmotnosti. 
 Druhá iterace se začala řešit formou hliníkového úchytu, do kterého se přidělá BLDC motor a celek se našroubuje na motorovou skříň.   
 Z druhé iterace vznikl po pár testech finální díl. Ten obsahuje pro úchyt BLDC motoru vsunutý negativ z vnitřní strany a z vnější strany drážky pro lepší odvod tepla.
 <img src="/ZPC2025-Kablasek/images/chladic.png"
@@ -190,10 +190,10 @@ V projektu se vyskytují díly vyrobené ze dvou odlišných materiálů pomocí
      style="position:absolute; right:2cm; top:162cm; border-radius:10px;">
 
 ###   A. Výroba dílů z PA11 CF15
-Z daného materiálu jsou vyrobeny propelery. Volba tohoto materiálu byla učiněna z důvodu parametru pevnosti, tažnosti a povrchové struktury.  
+Z daného materiálu jsou vyrobeny propelery. Materiál byl zvolen z důvodu parametru pevnosti, tažnosti a povrchové struktury.  
 Propelery musí udržovat rozměrovou stálost při rotaci, ale taktéž odolat vniku nečistot. 
 
-Kvůli volbě tohoto materiálu bylo nutno tisknout díly v ochranné dusíkové atmosféře pod přívodním tlakem 5bar.   
+Vzhledem k vlastnostem tohoto materiálu bylo nutno tisknout díly v ochranné dusíkové atmosféře pod přívodním tlakem 5bar.   
 Touto technologií se vyrobilo 8 kusů propelerů, které byly následně naskenovány pomocí skeneru SimScan.
 <img src="/ZPC2025-Kablasek/images/propscan.jpg"
      alt="5"
@@ -211,7 +211,7 @@ Z rozdílů těchto dat se sestavila mapa odchylek rozměrů, ze které vyplynul
      style="position:absolute; right:2cm; top:181cm; border-radius:10px;">
 
 ###   B. Výroba dílů z PA12 Industrial
-Tento materiál se zvolil na základě podobných vlastností k PA11 CF15, oproti němuž lze snadněji tisknout bez nutnosti ochranné atmosféry. 
+Materiál byl zvolen na základě podobných vlastností k PA11 CF15, oproti němuž lze snadněji tisknout bez nutnosti ochranné atmosféry. 
 
 Pomocí této technologie je zhotovena **Motorová skříň**, **Sleeve** a **Pastorek**. Materiál nabízí i bez úpravy povrchu dobré otěruvzdorné vlastnosti v kombinaci s vysokou soudržností vrstev.
 <img src="/ZPC2025-Kablasek/images/pa12.jpg"
@@ -267,7 +267,7 @@ Vyrobený kus je zhotoven z hliníku na CNC frézce.
 
 ## 4. Laserové řezání
 Touto technologií jsou zhotoveny těsnění na dělící rovině motorové skříně a mezi chladičem a skříní. 
-Těsnicí materiál byl zvolen Klingerit, neboli těsnicí papír, který se ve strojírenské výrobě používá k zatěsnění tlakových přírub.
+Jako těsnící materiál byl použit Klingerit, neboli těsnicí papír, který se ve strojírenské výrobě používá k zatěsnění tlakových přírub.
 
 Požadovaného tvaru se dosáhlo vytvořením dxf souborů pro laserové řezání a následným vyřezáním na laseru.
 <img src="/ZPC2025-Kablasek/images/tesneni.jpg"
@@ -297,7 +297,7 @@ Požadovaného tvaru se dosáhlo vytvořením dxf souborů pro laserové řezán
 * **6x CSN EN 24017 M4x20**
  
 # Proces sestavení
-Tento proces je nutné striktně dodržet pro funkční sestavení modelu.
+Tento proces je nezbytné striktně dodržet pro funkční sestavení modelu.
 
 ### 1. Vložení závitových vložek
 Prvním krokem je vložení zavitových vložek M3x3, M4x4 a M5x5 do připravených míst v obou částech motorové skříně. 
@@ -359,7 +359,7 @@ Gufero si zarovnáme vůči sleevu a pod stálým tlakem ho nalisujeme do skří
 
 ### 10. Instalace chladiče
 Skrze hliníkový chladič provlečeme přívody od motoru. Na motorou skříň zarovnáme těsnění vůči dírám na šrouby.  
-Motor si zarovnáme dráty k zadní straně a vložíme na něj chladič. Motor prvně upevníme pomocí 4 M3x16 a poté celý chladič zašroubujeme do skříně pomocí šesti M4x20. 
+Motor si zarovnáme dráty k zadní straně a vložíme na něj chladič. Nejprve upevníme motor pomocí 4 M3x16 a poté celý chladič zašroubujeme do skříně pomocí šesti M4x20. 
 Šrouby M3 dotáhneme na moment 2Nm a šrouby m4 na 4Nm.
 
 ### 11. Plnění olejem
