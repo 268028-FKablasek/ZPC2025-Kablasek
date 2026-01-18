@@ -23,7 +23,7 @@ subtitle: "Motorový blok podvodního dronu Argo"
 </model-viewer>
 <img src="/ZPC2025-Kablasek/images/rezmotoru.png"
      alt="5"
-     width="600" 
+     width="500" 
      style="position:absolute; right:2cm; top:17cm; border-radius:10px;">
 
 # Úvod
@@ -38,7 +38,7 @@ Tato konstrukce by měla umožnit dosažení cíle, při zachování dostupnosti
 
 <img src="/ZPC2025-Kablasek/images/lizard.jpeg"
      alt="5"
-     width="600" 
+     width="500" 
      style="position:absolute; right:2cm; top:26cm; border-radius:10px;">
 ---
 
@@ -86,7 +86,7 @@ V druhé fázi byla vytvořena rešerše na použitelné varianty. Zvažovalo se
 Hlavní omezení spočívalo v udržení hmotnosti jednoho ložiska okolo 100 g při splnění silových požadavků. Finální výběr byl učiněn po konzultaci s doktorem Davidem Košťálem a byly zvoleny nízkoprofilové kuličkové ložiska s kosoúhlým stykem SA035AR0 od firmy Kayden.
 <img src="/ZPC2025-Kablasek/images/sheet.png"
      alt="5"
-     width="600" 
+     width="500" 
      style="position:absolute; right:2cm; top:70cm; border-radius:10px;">
 
 ### 3. Výběr těsnění
@@ -99,7 +99,7 @@ Konzultace přinesla taktéž značný přínos při výběru těsnění. Výbě
 Pro aktuální iteraci bylo zvoleno těsnění pomocí gufera typu HMSA10V. Toto těsnění bylo zvoleno s ohledem na předpoklad vyrovnání tlaků při ponoru a vysokou dostupnost. Do další iterace by bylo spíše uvažováno o použití ferofluidního těsnění. Aktuální gufera jsou podrobována testům v tlakové komoře, aby se ověřila jejich funkčnost v dané aplikaci.
 <img src="/ZPC2025-Kablasek/images/gufero.png"
      alt="5"
-     width="600" 
+     width="500" 
      style="position:absolute; right:2cm; top:85cm; border-radius:10px;">
 
 ### 4. Návrh ozubení
@@ -109,7 +109,7 @@ Pro optimální provoz propeleru bylo nutné získat provozní otáčky 5 000 RP
 V Inventoru byl návrh proveden jako šikmé ozubení o poloviční šířce a toto kolo bylo ozrcadleno.
 <img src="/ZPC2025-Kablasek/images/navrhozubeni.png"
      alt="5"
-     width="600" 
+     width="500" 
      style="position:absolute; right:2cm; top:97cm; border-radius:10px;">
 
 **Parametry:**
@@ -373,7 +373,7 @@ Motorový blok vyjmeme a důkladně odmastíme.
 (Na obrázku lze vidět složenou referenci bez horního gufera)
 <img src="/ZPC2025-Kablasek/images/bezgufera.jpg"
      alt="5"
-     width="600" 
+     width="500" 
      style="position:absolute; right:2cm; top:340cm; border-radius:10px;">
 
 ## Stav projektu v době odevzdání stránek
