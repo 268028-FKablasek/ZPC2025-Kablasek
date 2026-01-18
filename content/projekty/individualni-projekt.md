@@ -43,7 +43,7 @@ Tato konstrukce by měla umožnit dosažení cíle, při zachování dostupnosti
 ---
 
 # Vývojový postup jednotlivých částí
-Před samotným zahájením práce na projektu si bylo nutné nastudovat řešenou problematiku a zároveň se seznámit s předešlými řešeními. Podle získaných vědomostí jsem si vymezil problémy, kvůli kterým předešlé verze selhaly a začal jsem pracovat na svojí vlastní iteraci.
+Před samotným zahájením práce na projektu bylo nutné nastudovat řešenou problematiku a zároveň se seznámit s předešlými řešeními. Podle získaných vědomostí byly vymezeny problémy, kvůli kterým předešlé verze selhaly, a byla zahájena práce na vlastní iteraci.
 
 Základním stavebním kamenem vývoje byl již navržený a optimalizovaný propeler s vnitřními lopatkami, který značně omezil dráhu vývoje.
 
@@ -81,7 +81,7 @@ V druhé fázi byla vytvořena rešerše na použitelné varianty. Zvažovalo se
 * **Kuličkových ložisek s kosoúhlým stykem**   
 * **Magnetických ložisek** 
 * **Dvojice kluzných radiálních a axiálních pouzder**
-* **Nízkoprofilová ložiska** 
+* **Nízkoprofilových ložisek** 
 
 Hlavní omezení spočívalo v udržení hmotnosti jednoho ložiska okolo 100 g při splnění silových požadavků. Finální výběr byl učiněn po konzultaci s doktorem Davidem Košťálem a byly zvoleny nízkoprofilové kuličkové ložiska s kosoúhlým stykem SA035AR0 od firmy Kayden.
 <img src="/ZPC2025-Kablasek/images/sheet.png"
@@ -259,7 +259,7 @@ Ve vývojovém procesu byla snaha o omezení technologie kovovýroby na minimum,
 Jediný díl vyrobený touto technologií je proto **Chladič motoru**, sloužící zároveň pro jeho uchycení k motorové skříni. 
 **Požadavky:**
 
-* **Zachycení krouticího monentu od motoru** 
+* **Zachycení krouticího momentu od motoru** 
 * **Zamezení pohybu základny motoru vůči ozubení** 
 * **Přenos tepla z oleje do vody** 
 
@@ -329,7 +329,7 @@ Z otevřené strany nasuneme do sleevu propeler a vložíme druhou zátku. Pomoc
 
 ### 5. Instalace sleevu do ložiska
 Prvně si vezmeme spodní část motorové skříně (část s malým ložiskem). Sestavený sleeve si položíme kolmo na stůl a na něho dolní část skříně.   
-Po vystředění ložiska vůči sleevu začneme vyvíjet stálý tlak na vnitřní kroužkem ložiska pomocí lisovacího kroužku, dokud ložisko nedosedne na doraz sleevu.
+Po vystředění ložiska vůči sleevu začneme vyvíjet stálý tlak na vnitřní kroužek ložiska pomocí lisovacího kroužku, dokud ložisko nedosedne na doraz sleevu.
 <img src="/ZPC2025-Kablasek/images/spodekasleeve.jpg"
      alt="5"
      width="400" 
@@ -355,11 +355,11 @@ Všechny šrouby dotáhneme podle křížového pravidla na 2 Nm.
 
 ### 9. Instalace gufera
 Před instalací gufer je nutné instalovat menší předepínací koužky pomocí 16 M2x10 (1 Nm) - instalujeme zapuštěním ven.  
-Gufero si zarovnáme vůči sleevu a pod stálým tlakem ho nalisujeme do skříně pomocí lisovacího kroužku. Toto zopakujem i z druhé strany.
+Gufero si zarovnáme vůči sleevu a pod stálým tlakem ho nalisujeme do skříně pomocí lisovacího kroužku. Toto zopakujeme i z druhé strany.
 
 ### 10. Instalace chladiče
 Skrze hliníkový chladič provlečeme přívody od motoru. Na motorou skříň zarovnáme těsnění vůči dírám na šrouby.  
-Motor si zarovnáme dráty k zadní straně a vložíme na něho chladič. Motor prvně upevníme pomocí 4 M3x16 a poté celý chladič zašroubujeme do skříně pomocí šesti M4x20. 
+Motor si zarovnáme dráty k zadní straně a vložíme na něj chladič. Motor prvně upevníme pomocí 4 M3x16 a poté celý chladič zašroubujeme do skříně pomocí šesti M4x20. 
 Šrouby M3 dotáhneme na moment 2Nm a šrouby m4 na 4Nm.
 
 ### 11. Plnění olejem
@@ -380,10 +380,10 @@ Motorový blok vyjmeme a důkladně odmastíme.
 Návrhová i vývojová část je kompletně hotová a čeká se pouze na vyrobení hlínikového chladiče. 
 
 Projekt je sestaven bez hliníkového chladiče, který je dočasně nahrazen výtiskem z technologie FFF, pro účely testování.  
-Motorový blok byl cvičně naplněn a roztočen na nízké otáčky pomocí tištěného dílu načemž bylo ověřeno:
+Motorový blok byl cvičně naplněn a roztočen na nízké otáčky pomocí tištěného dílu, na čemž bylo ověřeno:
 
 * **Těsnost motorového bloku** 
-* **Funkčnost převodovu** 
+* **Funkčnost převodu** 
 * **Správnost výrobních vs návrhových tolerancí** 
 * **Výška upevnění motoru a osová vzdálenost**
  
